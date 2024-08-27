@@ -93,3 +93,7 @@
   .project-1:hover .project-overlay {
     right: 0;
   }
+
+  @media screen and (max-width:960px) {
+    
+  }

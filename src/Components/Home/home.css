@@ -175,6 +175,11 @@
   color: var(--text-color);
   
 }
+.margin{
+  margin-left: 780px;
+  width: 150px;
+  z-index: 0;
+}
 
 @media screen and (max-width: 960px) {
   
@@ -201,7 +206,15 @@
   .specialization, .address{
     margin-left: 10px;
   }
+  .specialization{
+    margin-top: 30px;
+  }
   .contact-btn{
     bottom: 0px;
+  }
+  .margin{
+    margin-left: 110px;
+    margin-top:450px;
+    z-index: 0;
   }
 }

@@ -10,8 +10,6 @@ const Profile = () => {
             <p className='special'>JavaScript Programming with React, Node & MongoDB Specialization</p>
             <p className="specialization"><i>Specialization</i><br /><span className="spec">Web Engineer | Mern Stack </span></p>
             <p className="address"><i>Address</i><br /><span className="spec">Tamil Nadu, Auroville</span></p>
-            {/* <div className="download" data-aos="fade-up" data-aos-duration="2000">
-            </div> */}
             <div className="iconed">
                 <a href="https://wa.me/919940447308" className="social-icon"><i className="bi bi-instagram"><FaWhatsapp /></i></a>
                 <a href="https://www.instagram.com/saw_thish/?hl=en" className="social-icon"><i className="bi bi-instagram"><FaSquareInstagram /></i></a>
